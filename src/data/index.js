@@ -35,7 +35,6 @@ export const NavLinks = [
 
 import sliderOne01 from "@/images/slider/header1_2.jpg";
 import sliderOne02 from "@/images/slider/header1_3.jpg";
-import sliderTwo03 from "@/images/slider/header1_1.jpg";
 
 export const SliderOneData = [
   {
