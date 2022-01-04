@@ -139,44 +139,44 @@ export const ContactInfosList = [
     ],
   },
   {
-    title: "boston",
+    title: "About",
     infos: [
       {
-        name: "5 Federal Street Boston",
+        name: "Our story",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "What we do",
       },
       {
-        name: "666 888 000",
+        name: "Contact",
       },
     ],
   },
   {
-    title: "new york",
+    title: "Services",
     infos: [
       {
-        name: "8th Broklyn New York",
+        name: "Web Solution",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "SMM",
       },
       {
-        name: "666 888 000",
+        name: "Advertisement",
       },
     ],
   },
   {
-    title: "baltimore",
+    title: "Quick Links",
     infos: [
       {
-        name: "3 Lombabr 50 baltimore",
+        name: "Get Quote",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "Fill in form",
       },
       {
-        name: "666 888 000",
+        name: "Chat Us",
       },
     ],
   },
@@ -599,7 +599,7 @@ import aboutOne02 from "@/images/about/about_header.jpg";
 
 export const AboutOneData = {
   sectionContent: {
-    title: "build better website alot quicker with meipaly agency",
+    title: "build better website alot quicker with Digibit",
     subTitle: "get to know us",
   },
   gallery: [aboutOne01, aboutOne02],
@@ -625,8 +625,8 @@ export const TeamOneData = {
   posts: [
     {
       image: team01,
-      name: "Herman Fisher",
-      designation: "General Manager",
+      name: "Junaedi",
+      designation: "CEO",
       url: "#",
       socials: [
         {
@@ -645,8 +645,8 @@ export const TeamOneData = {
     },
     {
       image: team02,
-      name: "Charlie Kennedy",
-      designation: "Brand Designer",
+      name: "Doddy Kapisha",
+      designation: "COO",
       url: "",
       socials: [
         {
@@ -665,8 +665,8 @@ export const TeamOneData = {
     },
     {
       image: team03,
-      name: "Helena Adkins",
-      designation: "Seinor Designer",
+      name: "Rahmat",
+      designation: "Web Engineer",
       url: "#",
       socials: [
         {
@@ -685,8 +685,8 @@ export const TeamOneData = {
     },
     {
       image: team04,
-      name: "Virginia Farmer",
-      designation: "Marketing Manager",
+      name: "Ghani",
+      designation: "Designers",
       url: "#",
       socials: [
         {
@@ -705,8 +705,8 @@ export const TeamOneData = {
     },
     {
       image: team05,
-      name: "Philip Hansen",
-      designation: "Co Founder",
+      name: "Wahyu",
+      designation: "Art Director",
       url: "#",
       socials: [
         {
@@ -737,7 +737,7 @@ export const VideoOneData = {
   },
   video: {
     image: video01,
-    ID: "y2Eqx6ys1hQ",
+    ID: "mOJoJWG-dMA",
     title: "Watch Video",
   },
 };
@@ -965,8 +965,8 @@ import aboutTwo02 from "@/images/home_1/1.jpg";
 
 export const AboutTwoData = {
   sectionContent: {
-    title: "We are the Best Website agency in The World",
-    subTitle: "welcom to smart meipaly web agency",
+    title: "We are your awareness solution",
+    subTitle: "welcom to Digibit web agency",
     text:
       "We are committed to providing our customers with exceptional service while offering our employees the best training. Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500s.",
   },
