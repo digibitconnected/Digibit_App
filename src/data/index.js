@@ -10,20 +10,6 @@ export const NavLinks = [
   {
     name: "Home",
     url: "/",
-    subItems: [
-      {
-        name: "Home 01",
-        url: "/",
-      },
-      {
-        name: "Home 02",
-        url: "/index-2",
-      },
-      {
-        name: "Home 03",
-        url: "/index-3",
-      },
-    ],
   },
   {
     name: "About",
@@ -32,52 +18,14 @@ export const NavLinks = [
   {
     name: "Services",
     url: "/service",
-    subItems: [
-      {
-        name: "Services",
-        url: "/service",
-      },
-      {
-        name: "Service Details",
-        url: "/service-details",
-      },
-    ],
   },
   {
     name: "Portfolio",
     url: "/portfolio",
-    subItems: [
-      {
-        name: "Portfolio 01",
-        url: "/portfolio",
-      },
-      {
-        name: "Portfolio Details",
-        url: "/portfolio-details",
-      },
-    ],
   },
   {
     name: "Blog",
     url: "/blog",
-    subItems: [
-      {
-        name: "Blog 01",
-        url: "/blog",
-      },
-      {
-        name: "Blog 02",
-        url: "/blog-2",
-      },
-      {
-        name: "Blog 03",
-        url: "/blog-3",
-      },
-      {
-        name: "Blog Details",
-        url: "/blog-single",
-      },
-    ],
   },
   {
     name: "Contact",
@@ -85,8 +33,8 @@ export const NavLinks = [
   },
 ];
 
-import sliderOne01 from "@/images/slider/1_1.jpg";
-import sliderOne02 from "@/images/slider/1_2.jpg";
+import sliderOne01 from "@/images/slider/header1_2.jpg";
+import sliderOne02 from "@/images/slider/header1_3.jpg";
 
 export const SliderOneData = [
   {
@@ -109,9 +57,9 @@ export const SliderOneData = [
   },
 ];
 
-import sliderTwo01 from "@/images/slider/header2.jpg";
-import sliderTwo02 from "@/images/slider/header1.jpg";
-import sliderTwo03 from "@/images/slider/header3.jpg";
+import sliderTwo01 from "@/images/slider/header1_1.jpg";
+import sliderTwo02 from "@/images/slider/header1_2.jpg";
+import sliderTwo03 from "@/images/slider/header1_3.jpg";
 
 export const SliderTwoData = [
   {
@@ -143,8 +91,8 @@ export const SliderTwoData = [
   },
 ];
 
-import sliderThree01 from "@/images/slider/3_1.jpg";
-import sliderThree02 from "@/images/slider/3_2.jpg";
+import sliderThree01 from "@/images/slider/header1_2.jpg";
+import sliderThree02 from "@/images/slider/header1_3.jpg";
 
 export const SliderThreeData = [
   {
