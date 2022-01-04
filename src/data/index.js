@@ -109,9 +109,9 @@ export const SliderOneData = [
   },
 ];
 
-import sliderTwo01 from "@/images/slider/2_1.jpg";
-import sliderTwo02 from "@/images/slider/2_2.jpg";
-import sliderTwo03 from "@/images/slider/2_3.jpg";
+import sliderTwo01 from "@/images/slider/header2.jpg";
+import sliderTwo02 from "@/images/slider/header1.jpg";
+import sliderTwo03 from "@/images/slider/header3.jpg";
 
 export const SliderTwoData = [
   {
