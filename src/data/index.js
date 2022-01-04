@@ -91,7 +91,7 @@ import sliderOne02 from "@/images/slider/1_2.jpg";
 export const SliderOneData = [
   {
     image: sliderOne01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO DIGIBIT",
     title: "SMART WEB \n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -100,7 +100,7 @@ export const SliderOneData = [
   },
   {
     image: sliderOne02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO DIGIBIT",
     title: "SMART WEB \n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -116,7 +116,7 @@ import sliderTwo03 from "@/images/slider/2_3.jpg";
 export const SliderTwoData = [
   {
     image: sliderTwo01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO DIGIBIT",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -125,7 +125,7 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO DIGIBIT",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -134,7 +134,7 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo03,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO DIGIBIT",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -149,7 +149,7 @@ import sliderThree02 from "@/images/slider/3_2.jpg";
 export const SliderThreeData = [
   {
     image: sliderThree01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO DIGIBIT",
     title: "SMART WEB\n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -158,7 +158,7 @@ export const SliderThreeData = [
   },
   {
     image: sliderThree02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO DIGIBIT",
     title: "SMART WEB\n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -176,16 +176,16 @@ export const ContactInfosBlock = {
 
 export const ContactInfosList = [
   {
-    title: "austin",
+    title: "Depok",
     infos: [
       {
-        name: "22 Texas West Hills",
+        name: "Jl. H.Nawi Malik no. 40 Depok",
       },
       {
-        name: "needhelp@meipaly.com",
+        name: "info@digibit.co.id",
       },
       {
-        name: "666 888 000",
+        name: "+62 882 1044 4407",
       },
     ],
   },
