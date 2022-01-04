@@ -1,5 +1,5 @@
-import logoLight from "@/images/logo.png";
-import logoDark from "@/images/logo2.png";
+import logoLight from "@/images/logo-pencils.svg";
+import logoDark from "@/images/logo-pencils.svg";
 
 export const LogoImage = {
   light: logoLight,
