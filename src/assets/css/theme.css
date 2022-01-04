@@ -1533,7 +1533,7 @@ License URI:
 / 17. Tesimonial 02 Section
 ------------------------------------------------------*/
 .testimonial_2 {
-  background: url(../images/bg/7.jpg) no-repeat center center / cover;
+  background: url(../images/portfolio_header.jpg) no-repeat center center / cover;
 }
 .testimoniTab {
   position: relative;
@@ -1854,7 +1854,7 @@ License URI:
 .pageBanner {
   position: relative;
   min-height: 465px;
-  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+  background: url(../images/about_header.jpg) no-repeat center center / cover;
   padding-top: 224px;
 }
 .banner_content {
