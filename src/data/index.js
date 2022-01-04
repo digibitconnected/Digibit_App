@@ -1,5 +1,5 @@
-import logoLight from "@/images/logo-pencils.svg";
-import logoDark from "@/images/logo-pencils.svg";
+import logoLight from "@/images/logo_digibit.png";
+import logoDark from "@/images/logo.png";
 
 export const LogoImage = {
   light: logoLight,
@@ -35,6 +35,7 @@ export const NavLinks = [
 
 import sliderOne01 from "@/images/slider/header1_2.jpg";
 import sliderOne02 from "@/images/slider/header1_3.jpg";
+import sliderTwo03 from "@/images/slider/header1_1.jpg";
 
 export const SliderOneData = [
   {
@@ -593,8 +594,8 @@ export const ClientCarouselData = {
   ],
 };
 
-import aboutOne01 from "@/images/about/1.jpg";
-import aboutOne02 from "@/images/about/2.jpg";
+import aboutOne01 from "@/images/about/about_header.jpg";
+import aboutOne02 from "@/images/about/about_header.jpg";
 
 export const AboutOneData = {
   sectionContent: {
