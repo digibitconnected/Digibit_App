@@ -12,5 +12,4 @@ const GoogleMap = ({ extraClass }) => {
     </div>
   );
 };
-
 export default GoogleMap;
