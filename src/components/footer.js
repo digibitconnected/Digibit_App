@@ -13,10 +13,9 @@ const Footer = () => {
                 <img src={light} alt="" />
               </a>
               <p>
-                Welcome to our web design agency. Lorem ipsum is simply free
-                text dolor sit amet consectetur adipisicing elit. Tempore
-                corrupti temporibus fuga earum asperiores, alias excepturi sit
-                mpedit fugit laudantium.
+                We help premium brands achieve their future through innovation 
+		            and creative perspectives. We grow your company 
+		            through proprietary in-house ideas, tested and perfected over the years.
               </p>
             </aside>
           </div>
@@ -24,13 +23,14 @@ const Footer = () => {
             <aside className="widget contact_widgets">
               <h3 className="widget_title">contact</h3>
               <p>
-                66 Broklyn Street, New York
+                Jl. H.Nawi Malik no. 40 
+                Kel. Pondok Petir, Kec. Bojongsari 
                 <br />
-                United States of America
+                Indonesia
               </p>
-              <p>P: 666 888 000</p>
+              <p>P: +62 882 1044 4407</p>
               <p>
-                E: <a href="#">needhelp@meipaly.com</a>
+                E: <a href="#">info@digibit.co.id</a>
               </p>
             </aside>
           </div>
@@ -61,7 +61,7 @@ const Footer = () => {
           <div className="col-lg-12 col-sm-12 text-center">
             <div className="copyright">
               © copyright {new Date().getFullYear()} by{" "}
-              <a href="#">Layerdrops.com</a>
+              <a href="#">DIGIBIT</a>
             </div>
           </div>
         </div>
